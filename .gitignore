@@ -1,0 +1,6 @@
+node_modules
+out
+outA
+outB
+*.tar.gz
+.DS_Store
